@@ -21,7 +21,7 @@ Esta é uma solução para o jogo [Acerte o Número](https://www.udemy.com/cours
 ### Links
 
 - URL da solução: [GitHub](https://github.com/Gschristofano/acerte-o-numero)
-- Live Site URL: [Netlify]()
+- Live Site URL: [Netlify](https://acerte-o-num.netlify.app/)
 
 ## Meu processo
 
