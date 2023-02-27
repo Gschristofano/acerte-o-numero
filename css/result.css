@@ -1,0 +1,21 @@
+.cont .result-box{
+    background: var(--white);
+    width: 60%;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.2);
+    color: var(--blue);
+    margin-bottom: 5%;
+      
+}
+
+.cont .result-box h2{
+    font-weight: 500;
+    font-size: 1.5rem;
+    margin: 5% 0px;
+}
+
+.cont .result-box span{
+    font-size: 1.3rem;
+    font-weight: 300;
+}
